@@ -1,3 +1,6 @@
 import pytesseract
+from PIL import Image
+
 def extract_text(image):
-    return pytesseract.image_to_string(image)
+    text = pytesseract.image_to_string(image)
+    return text
