@@ -7,8 +7,14 @@ AI Attention Visualizer is a Streamlit-based application that extracts text from
 [Live Demo - AI Attention Visualizer](https://aiattentionvisualizer-bnw9mqgaie7rb8ybm5cm8g.streamlit.app/)
 
 ## Screenshot
+<img width="1366" height="768" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/f713e602-6588-4ced-8041-cf84329f4689" />
+<img width="1366" height="768" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/cd7d6d35-7b0c-48ec-bf12-5665c6584601" />
+<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/4e9db536-4cee-424a-9515-96054ac7cc2e" />
+<img width="1366" height="768" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/42fa32fc-1e85-445f-b176-01ca03397202" />
 
-![AI Attention Visualizer Demo](screenshots/demo.png)
+
+
+
 
 ## Features
 
@@ -67,17 +73,17 @@ AI_Attention_Visualizer/
 
 Install the required Python packages:
 
-```bash
+
 pip install -r requirements.txt
-```
+
 
 Make sure Tesseract OCR is installed on your system.
 
 ## Run the Application
 
-```bash
+
 streamlit run app.py
-```
+
 
 The application will open in your browser.
 
