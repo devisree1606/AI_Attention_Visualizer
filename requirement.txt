@@ -1,5 +1,5 @@
 streamlit
-numpy
-pillow
 pytesseract
-sentence-transformers
+Pillow
+numpy
+matplotlib
